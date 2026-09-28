@@ -51,7 +51,10 @@ node_modules/
 # Local config
 .env.local
 .ace-tool/
-.code-abyss/reports/
-.code-abyss/index.db
-.pi/
+/.code-abyss/reports/
+/.code-abyss/index.db
+/.pi/
 .npmrc
+
+# opencode one-command installer runtime
+/manifest.json
